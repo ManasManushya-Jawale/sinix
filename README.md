@@ -26,14 +26,14 @@
 | Distro | Sinix Linux |
 | Distro Type | Arch-based, semi-declarative |
 | Init System | Systemd |
-| Bootloader | ??? |
+| Bootloader | systemd-boot |
 | Greeter | ly |
 | Display Manager | ly |
 | Desktop | Hyprland/Niri/MangoWC/LabWC |
 | Dotfiles | hakuimaku/hakuspace |
-| Notifications | mako |
+| Notifications | swaync |
 | App Launcher | rofi |
-| Terminal | alacritty |
+| Terminal | foto |
 | Shell | fish |
 | Text Editor | neovim/nano |
 ##### The WM found in screenshots is MangoWC.
