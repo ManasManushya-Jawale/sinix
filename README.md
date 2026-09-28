@@ -30,10 +30,10 @@
 | Greeter | ly |
 | Display Manager | ly |
 | Desktop | Hyprland/Niri/MangoWC/LabWC |
-| Dotfiles | hakuimaku/hakuspace |
+| Dotfiles | hakuspace |
 | Notifications | swaync |
 | App Launcher | rofi |
-| Terminal | foto |
+| Terminal | foot |
 | Shell | fish |
 | Text Editor | neovim/nano |
 ##### The WM found in screenshots is MangoWC.
