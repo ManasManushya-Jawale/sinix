@@ -50,13 +50,13 @@
 
  - [x] Install arch
 
- - [] Set up things and dotfiles
+ - [ ] Set up things and dotfiles
        
- - [] Set up the development environment so we can start making Sinix
+ - [ ] Set up the development environment so we can start making Sinix
 
- - [] Set up UX, declaration and rest
+ - [ ] Set up UX, declaration and rest
        
- - [] Make a installer
+ - [ ] Make a installer
   
 </details>
 
