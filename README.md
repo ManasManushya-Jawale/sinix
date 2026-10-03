@@ -36,7 +36,6 @@
 | Terminal | foot |
 | Shell | ??? |
 | Text Editor | neovim/nano |
-##### The WM found in screenshots is MangoWC.
 
 </details>
 
