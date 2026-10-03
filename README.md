@@ -6,7 +6,7 @@
 
 <div align="center">
   
-### Sinix Linux is an arch-based Linux distro that adds **semi-declarative configuration** and a **customized multi-WM choice desktop** made by my boy hakuimaku.
+### Sinix Linux is an arch-based Linux distro that adds **semi-declarative configuration** and a **customized desktop.**
 
 </div>
 
@@ -26,15 +26,15 @@
 | Distro | Sinix Linux |
 | Distro Type | Arch-based, semi-declarative |
 | Init System | Systemd |
-| Bootloader | systemd-boot |
-| Greeter | ly |
-| Display Manager | ly |
-| Desktop | Hyprland/Niri/MangoWC/LabWC |
-| Dotfiles | hakuspace |
+| Bootloader | ??? |
+| Greeter | ??? |
+| Display Manager | ??? |
+| Desktop | Niri |
+| Dotfiles | our own |
 | Notifications | swaync |
-| App Launcher | rofi |
+| App Launcher | fuzzel |
 | Terminal | foot |
-| Shell | fish |
+| Shell | ??? |
 | Text Editor | neovim/nano |
 ##### The WM found in screenshots is MangoWC.
 
@@ -51,13 +51,13 @@
 
  - [x] Install arch
 
- - [x] Set up things and dotfiles
+ - [] Set up things and dotfiles
        
- - [x] Set up the development environment so we can start making Sinix
+ - [] Set up the development environment so we can start making Sinix
 
- - [x] Set up UX, declaration and rest
+ - [] Set up UX, declaration and rest
        
- - [ ] Make a installer
+ - [] Make a installer
   
 </details>
 
@@ -69,20 +69,6 @@
   * Custom Multi-WM choice desktop: Use a pre-configured and cool desktop of your choice using Wayland and many other modern programs.
     
   * Arch muscle memory: Sinix is Arch-based, so your regular Arch Linux commands will work.
-  
-</details>
-
-<details>
-<summary> Screenshots </summary>
-
-  cool rice
-  ![1](assets/rice.png)
-
-  INTENSE RICE!! >:333
-  ![2](intense-rice.png)
-
-  look! its rofi! and cybervis!
-  ![3](assets/image.png)
   
 </details>
 
