@@ -65,7 +65,7 @@
   
   * Semi-declarative: Get the best of both worlds and use declarative and imperative at the same time, like HaliadeOS (formely ZereneOS).
   
-  * Custom Multi-WM choice desktop: Use a pre-configured and cool desktop of your choice using Wayland and many other modern programs.
+  * Custom desktop: Use a pre-configured and cool desktop using Wayland and many other modern programs.
     
   * Arch muscle memory: Sinix is Arch-based, so your regular Arch Linux commands will work.
   
