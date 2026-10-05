@@ -2,9 +2,7 @@ local new_pkg = arg[1]
 
 if not new_pkg or new_pkg == '' then os.exit(1) end
 
-local config_path = "/etc/sinix/config.lua"
-
-local config = dofile("/etc/sinix/config.lua")
+local config = dofile("/sinix/declare/config.lua")
 
 config.packages = config.packages or {}
 
