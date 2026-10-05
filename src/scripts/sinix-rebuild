@@ -1,6 +1,6 @@
 #!/bin/sh
 
-SRC_DIR="/etc/sinix/"
+SRC_DIR="/sinix/declare/src/"
 DOTFILES_DIR="~/yourcustomfolderksfldajsdfw"
 
 if [ "$EUID" -ne 0 ]; then
@@ -8,7 +8,7 @@ if [ "$EUID" -ne 0 ]; then
 fi
 
 echo ":: Applying changes..."
-lua /etc/sinix/src/main.lua
+lua $SRC_DIR/main.lua
 
 echo ":: Overwriting existing dotfiles symlink..."
 echo "[!!] EDIT THIS FILE (/usr/local/bin/sinix-rebuild) TO MAKE IT USE YOUR CUSTOM FOLDER."
