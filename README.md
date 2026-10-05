@@ -29,12 +29,12 @@
 | Bootloader | ??? |
 | Greeter | ??? |
 | Display Manager | ??? |
-| Desktop | MangoWM |
-| Dotfiles | ??? |
-| Notifications | swaync |
-| App Launcher | rofi |
-| Terminal | foot |
-| Shell | ??? |
+| Desktop | KDE |
+| Dotfiles | our dotfiles |
+| Notifications | kde |
+| App Launcher | ??? |
+| Terminal | konsole |
+| Shell | fish |
 | Text Editor | neovim/nano |
 
 </details>
@@ -54,7 +54,7 @@
        
  - [ ] Set up the development environment so we can start making Sinix
 
- - [ ] Set up UX, declaration and rest
+ - [ ] Set up declaration and rest
        
  - [ ] Make a installer
   
