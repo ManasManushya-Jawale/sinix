@@ -5,9 +5,9 @@ sleep 6
 
 cd
 cd sinix
-mkdir -p /etc/sinix/src/
-cp src/decla/* /etc/sinix/src/
-cp example_config.lua /etc/sinix/config.lua
+mkdir -p /sinix/declare/src/
+cp src/decla/* /sinix/declare/src/
+cp example_config.lua /sinix/declare/config.lua
 sudo pacman -S --needed --noconfirm lua
 
 echo "Repair complete. If you can't use sinix-rebuild or sinixcfg, run scripts.sh"
