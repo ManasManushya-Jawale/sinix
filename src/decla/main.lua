@@ -1,6 +1,6 @@
-local engine = dofile("/etc/sinix/src/absolute.lua")
+local engine = dofile("/sinix/declare/src/absolute.lua")
 
-local desired_state = dofile("/etc/sinix/config.lua")
+local desired_state = dofile("/sinix/declare/config.lua")
 
 print("Starting deployment...")
 engine.apply_packages(desired_state.packages or {})
