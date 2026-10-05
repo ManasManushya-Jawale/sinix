@@ -29,10 +29,10 @@
 | Bootloader | ??? |
 | Greeter | ??? |
 | Display Manager | ??? |
-| Desktop | Niri |
-| Dotfiles | our own |
+| Desktop | MangoWM |
+| Dotfiles | ??? |
 | Notifications | swaync |
-| App Launcher | fuzzel |
+| App Launcher | rofi |
 | Terminal | foot |
 | Shell | ??? |
 | Text Editor | neovim/nano |
