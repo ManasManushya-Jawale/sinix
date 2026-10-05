@@ -18,7 +18,7 @@ end
 if not exists then
 	table.insert(config.packages, new_pkg)
 
-	local file = io.open(config_path, "w")
+	local file = io.open(config, "w")
 	file:write("return {\n")
 
 	if config.hostname then file:write(string.format("	hostname = %q,\n", config.hostname)) end
