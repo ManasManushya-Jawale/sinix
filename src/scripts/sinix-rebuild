@@ -9,7 +9,4 @@ fi
 echo ":: Applying changes..."
 lua /etc/sinix/src/main.lua
 
-echo ":: Overwriting existing /etc/sinix/cfg link with ~/.config..."
-ln -sf /etc/sinix/cfg/ ~/.config
-
 echo ":)"
