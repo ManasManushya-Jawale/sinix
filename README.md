@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  ![a](assets/wallpapers/wallpaper-3.png)
+  ![a](assets/wallpapers/city-from-hill.png)
 
 </div>
 
