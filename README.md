@@ -6,7 +6,7 @@
 
 <div align="center">
   
-### Sinix Linux is an arch-based Linux distro that adds **semi-declarative configuration** and a **customized desktop.**
+### Sinix Linux is an arch-based Linux distro that adds **semi-declarative configuration** and a **custom ecosystem.**
 
 </div>
 
@@ -27,13 +27,8 @@
 | Distro Type | Arch-based, semi-declarative |
 | Init System | Systemd |
 | Bootloader | ??? |
-| Greeter | ??? |
-| Display Manager | ??? |
-| Desktop | KDE |
-| Dotfiles | our dotfiles |
+| Desktop | no desktop, minimal |
 | Notifications | kde |
-| App Launcher | ??? |
-| Terminal | konsole |
 | Shell | fish |
 | Text Editor | neovim/nano |
 
@@ -49,10 +44,6 @@
 <summary> Roadmap </summary>
 
  - [x] Install arch
-
- - [ ] Set up things and dotfiles
-       
- - [ ] Set up the development environment so we can start making Sinix
 
  - [ ] Set up declaration and rest
        
