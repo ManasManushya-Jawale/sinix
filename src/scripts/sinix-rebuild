@@ -1,6 +1,7 @@
 #!/bin/sh
 
 SRC_DIR="/etc/sinix/"
+DOTFILES_DIR="~/yourcustomfolderksfldajsdfw"
 
 if [ "$EUID" -ne 0 ]; then
         echo "ABORT: Run this as root or with sudo/doas."
@@ -9,4 +10,10 @@ fi
 echo ":: Applying changes..."
 lua /etc/sinix/src/main.lua
 
+echo ":: Overwriting existing dotfiles symlink..."
+echo "[!!] EDIT THIS FILE (/usr/bin/sinix-rebuild) TO MAKE IT USE YOUR CUSTOM FOLDER."
+echo "if already feelin' comfortable, delete the 'echo 6' from this script, and both the
+notice above and this text here."
+echo 10
+ln -sf $DOTFILES_DIR ~/.config
 echo ":)"
