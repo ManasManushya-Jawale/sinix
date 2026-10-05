@@ -5,8 +5,8 @@ sleep 6
 
 cd
 cd sinix
-cp src/scripts/* /usr/bin/
-chmod +x /usr/bin/sinixcfg 
-chmod +x /usr/bin/sinix-rebuild
-sudo pacman -S --needed --noconfirm lua
+cp src/scripts/* /usr/local/bin/
+chmod +x /usr/local/bin/sinixcfg 
+chmod +x /usr/local/bin/sinix-rebuild
+sudo pacman -S --needed --noconfirm lua openjdk
 echo "Repair complete."
