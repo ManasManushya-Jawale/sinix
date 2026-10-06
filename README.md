@@ -1,3 +1,6 @@
+![Banner](https://readmewidgets.dev/sinixlinux/banner?v=1)
+
+
 <div align="center">
   
 # 🕳️ sinix
