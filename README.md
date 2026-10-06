@@ -7,11 +7,6 @@
 <div align="center">
   
 ### Sinix Linux is an arch-based Linux distro that adds **semi-declarative configuration** and a **custom ecosystem.**
-
-    <a href="https://github.com/sinixlinux/sinix/commits/main"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/sinixlinux/sinix?style=for-the-badge&label=Last%20Commit&labelColor=%23000000&color=%23212121&logo=git&logoColor=%23FFFFFF"></a>&nbsp;
-    <a href="https://github.com/sinixlinux/sinix/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/sinixlinux/sinix?style=for-the-badge&label=Stars&labelColor=%23000000&color=%23212121&logo=github&logoColor=%23FFFFFF"></a>&nbsp;
-    <a href="https://github.com/sinixlinux/sinix"><img alt="Repo Size" src="https://img.shields.io/github/repo-size/sinixlinux/sinix?style=for-the-badge&label=Repo%20Size&labelColor=%23000000&color=%23212121&logo=github&logoColor=%23FFFFFF"></a>
-
 </div>
 
 <div align="center">
