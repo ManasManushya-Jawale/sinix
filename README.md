@@ -1,17 +1,4 @@
 ![Banner](https://readmewidgets.dev/sinixlinux/banner?v=1)
-
-
-<div align="center">
-  
-# 🕳️ sinix
-
-</div>
-
-<div align="center">
-  
-### Sinix Linux is an arch-based Linux distro that adds **semi-declarative configuration** and a **custom ecosystem.**
-</div>
-
 <div align="center">
   
   ![a](assets/wallpapers/city-from-hill.png)
