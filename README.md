@@ -41,17 +41,6 @@
 </details>
 
 <details>
-<summary> Roadmap </summary>
-
- - [x] Install arch
-
- - [ ] Set up declaration and rest
-       
- - [ ] Make a installer
-  
-</details>
-
-<details>
 <summary> Features </summary>
   
   * Semi-declarative: Get the best of both worlds and use declarative and imperative at the same time, like HaliadeOS (formely ZereneOS).
@@ -65,3 +54,7 @@
 ## More links
 
 Sinix's parent distro — <https://archlinux.org/>
+
+Releases — <https://github.com/sinixlinux/sinix/releases/>
+
+Our color scheme <https://github.com/sinixlinux/frost>
